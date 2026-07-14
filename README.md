@@ -1,6 +1,6 @@
 # Stock Research Assistant
 
-A Google Colab-based financial analysis tool that automates stock research and generates AI-ready analysis prompts. Check out the Stockwatch WhatsApp channel for sample outputs. 
+A Google Colab-based financial analysis tool that automates stock research and generates AI-ready analysis prompts. Check out the Stockwatching WhatsApp channel for sample outputs. 
 
 ## Overview
 
